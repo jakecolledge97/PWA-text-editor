@@ -41,7 +41,7 @@
     <a href="https://github.com/jakecolledge97/PWA-text-editor"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jakecolledge97/PWA-text-editor">View Demo</a>
+    <a href="https://fast-eyrie-28218.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/jakecolledge97/PWA-text-editor/issues">Report Bug</a>
     ·
